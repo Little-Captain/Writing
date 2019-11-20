@@ -8,7 +8,7 @@
 
 * 使用如下指令打开 fstab
 
-```
+```sh
 sudo vim /etc/fstab
 ```
 
@@ -16,7 +16,7 @@ sudo vim /etc/fstab
 
 * fstab 中添加一行内容。格式如下
 
-```
+```sh
 LABEL=U盘名称 none ntfs rw,auto,nobrowse
 ```
 
