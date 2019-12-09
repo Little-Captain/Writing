@@ -2,6 +2,10 @@
 
 ## [Programming](./Programming)
 
+### [Python](./Programming/Python)
+
+* [环境管理](./Programming/Python/环境管理.md)
+
 ### [Shell](./Programming/Shell)
 
 * [命令提示符的格式](./Programming/Shell/命令提示符的格式.md)
