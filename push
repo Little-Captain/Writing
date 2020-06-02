@@ -1,0 +1,17 @@
+#!/usr/bin/env bash
+
+echo -e "\n添加"
+git add .
+
+echo -e "\n提交"
+git commit
+
+echo -e "\n推送到 aliyun"
+git push aliyun master
+
+echo -e "\n推送到 gitee"
+git push gitee master
+
+echo -e "\n推送到 github"
+git push github master
+
